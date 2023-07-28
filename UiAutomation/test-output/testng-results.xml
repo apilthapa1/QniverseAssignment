@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-28T16:17:00 NPT" name="Sauce Demo" finished-at="2023-07-28T16:17:07 NPT" duration-ms="6567">
+    <groups>
+    </groups>
+    <test started-at="2023-07-28T16:17:00 NPT" name="Candidate Assignment UI" finished-at="2023-07-28T16:17:07 NPT" duration-ms="6567">
+      <class name="tests.ActualTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:00 NPT" name="OpenBrowser" finished-at="2023-07-28T16:17:04 NPT" duration-ms="3199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="oneTimeSetUp()[pri:0, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:04 NPT" name="oneTimeSetUp" finished-at="2023-07-28T16:17:04 NPT" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oneTimeSetUp -->
+        <test-method signature="Login()[pri:1, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:04 NPT" name="Login" finished-at="2023-07-28T16:17:04 NPT" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="addToCart_Item1()[pri:2, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:04 NPT" name="addToCart_Item1" finished-at="2023-07-28T16:17:05 NPT" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart_Item1 -->
+        <test-method signature="removeItem()[pri:3, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:05 NPT" name="removeItem" finished-at="2023-07-28T16:17:05 NPT" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeItem -->
+        <test-method signature="addToCart_Item2()[pri:4, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:05 NPT" name="addToCart_Item2" finished-at="2023-07-28T16:17:05 NPT" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart_Item2 -->
+        <test-method signature="checkoutPage_Step1()[pri:5, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:05 NPT" name="checkoutPage_Step1" finished-at="2023-07-28T16:17:06 NPT" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutPage_Step1 -->
+        <test-method signature="checkoutPage_Step2()[pri:6, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:06 NPT" name="checkoutPage_Step2" finished-at="2023-07-28T16:17:06 NPT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutPage_Step2 -->
+        <test-method signature="CheckoutComplete()[pri:7, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:06 NPT" name="CheckoutComplete" finished-at="2023-07-28T16:17:06 NPT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutComplete -->
+        <test-method signature="backHome()[pri:8, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:06 NPT" name="backHome" finished-at="2023-07-28T16:17:06 NPT" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backHome -->
+        <test-method signature="logout()[pri:9, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:06 NPT" name="logout" finished-at="2023-07-28T16:17:07 NPT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:tests.ActualTest@1ca3b418]" started-at="2023-07-28T16:17:07 NPT" name="CloseBrowser" finished-at="2023-07-28T16:17:07 NPT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- tests.ActualTest -->
+    </test> <!-- Candidate Assignment UI -->
+  </suite> <!-- Sauce Demo -->
+</testng-results>

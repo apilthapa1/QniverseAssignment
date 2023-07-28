@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sauce Demo">
+<listeners>
+<listener class-name="listeners.MyListeners"/>
+</listeners>
+  <test name="Candidate Assignment UI">
+    <classes>
+      <class name="tests.ActualTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
